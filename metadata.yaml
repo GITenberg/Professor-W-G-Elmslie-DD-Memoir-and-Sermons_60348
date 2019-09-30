@@ -1,0 +1,48 @@
+_repo: Professor-W-G-Elmslie-DD-Memoir-and-Sermons_60348
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elmslie, William Gray
+    alias: Elmslie, W. G. (William Gray)
+    birthdate: 1848
+    deathdate: 1889
+    gutenberg_agent_id: '50910'
+    url: http://www.gutenberg.org/2009/agents/50910
+  editors:
+  - agent_name: MacNicoll, A. N.
+    gutenberg_agent_id: '50911'
+    url: http://www.gutenberg.org/2009/agents/50911
+  - agent_name: Nicoll, W. Robertson (William Robertson), Sir
+    aliases:
+    - Clear, Claudius
+    - Wace, Walter E.
+    - Nicoll, William Robertson, Sir
+    birthdate: 1851
+    deathdate: 1923
+    gutenberg_agent_id: '36133'
+    url: http://www.gutenberg.org/2009/agents/36133
+description: ''
+gutenberg_issued: '2019-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60348'
+  lccn: '04033662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elmslie, William Gray, 1848-1889'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BV'
+- !lcsh 'Theologians -- Scotland -- Biography'
+- !lcc 'BX'
+- GITenberg
+tableOfContents: Memoir -- Christ at the door -- The dark enigma of death -- The story
+  of Dorcas -- Unfulfilled Christian work -- A lesson in Christian help -- Joseph's
+  faith -- The brazen serpent -- The gradations of doubt -- The story of Queen Esther
+  -- The example of the prophets -- The making of a prophet -- For and against Christ
+  -- The prophecy of nature -- Christian giving -- Our Lord's treatment of erring
+  friends -- A hymn of heart's ease -- The first chapter of Genesis.
+title: 'Professor W. G. Elmslie, D.D.: Memoir and Sermons'
+url: http://www.gutenberg.org/ebooks/60348
